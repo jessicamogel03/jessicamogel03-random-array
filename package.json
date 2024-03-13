@@ -1,0 +1,23 @@
+{
+  "name": "jessicamogel03-random-array",
+  "version": "1.0.0",
+  "description": "A collection of utilities for generating random numbers and manipulating arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jessicamogel03/jessicamogel03-random-array"
+  },
+  "dependencies": {
+    "tea-demonstration": "1.0.0",
+    "lodash": "^4.17.21"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicamogel03/jessicamogel03-random-array/issues"
+  },
+  "homepage": "https://github.com/jessicamogel03/jessicamogel03-random-array#readme"
+}
